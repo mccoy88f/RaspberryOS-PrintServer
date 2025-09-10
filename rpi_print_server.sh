@@ -346,9 +346,15 @@ HOTSPOT WIFI:
 - Password: printserver123
 - IP Range: 192.168.4.2 - 192.168.4.20
 
+GESTIONE CONFIGURAZIONI WIFI:
+- Se hai preconfigurato WiFi con Raspberry Pi Imager: ✓ Backup automatico
+- File backup: /etc/wpa_supplicant/wpa_supplicant.conf.backup
+- Per tornare al WiFi client: /usr/local/bin/restore-wifi-client.sh
+
 COMANDI UTILI:
 - Avvia hotspot: sudo /usr/local/bin/start-hotspot.sh
 - Ferma hotspot: sudo /usr/local/bin/stop-hotspot.sh
+- Ripristina WiFi client: sudo /usr/local/bin/restore-wifi-client.sh
 - Stato stampanti: /usr/local/bin/printer-utils.sh status
 - Lista stampanti: /usr/local/bin/printer-utils.sh list
 
