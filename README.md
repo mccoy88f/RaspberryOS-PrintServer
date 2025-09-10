@@ -1,6 +1,6 @@
 # 🖨️ RaspberryOS Print Server
 
-Un script completo per trasformare un Raspberry Pi in un potente print server con interfaccia web, gestione remota e supporto hotspot WiFi.
+Un script completo per trasformare un Raspberry Pi in un potente print server con interfaccia web, gestione remota e supporto hotspot WiFi. Prima di procedere a questa guida installa sul tuo Raspberry il sistema operativo. Consigliamo [Raspberry PI Imager](https://www.raspberrypi.com/software/)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
